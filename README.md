@@ -1,2 +1,3 @@
-# FullStackDevCourse
-This is my exercices repository
+# This is my exercices repository
+
+All exercices work has been put here
